@@ -4,7 +4,7 @@ Il contenuto di questo repository consiste in un insieme di script python suddiv
 
 # Stato Attuale Esercitazioni
 In questa tabella è possibile vedere il riassunto dello stato delle esercitazioni svolte e delle soluzioni pubblicate
-|                 |  Ing. Ambientale |     Ing. Civile     |      Soluzioni        |
+|                 |  Ing. Ambientale :seedling: |     Ing. Civile :house:     |      Soluzioni :bulb:       |
 |-----------------|:---------------------------:|:---------------------------:|:---------------------------:|
 | Esercitazione 1 |  Svolta :heavy_check_mark:  |  20/10/23 :calendar:  |    Pubblicate :paperclip:   |
 | Esercitazione 2 |  23/10/23 :calendar:  |  27/10/23 :calendar:  |    27/10/23 :calendar:   |
