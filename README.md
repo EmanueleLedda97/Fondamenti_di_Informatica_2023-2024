@@ -6,7 +6,7 @@ Il contenuto di questo repository consiste in un insieme di script python suddiv
 In questa tabella è possibile vedere il riassunto dello stato delle esercitazioni svolte e delle soluzioni pubblicate
 |                 |  Ing. Ambientale :seedling: |     Ing. Civile :house:     |      Soluzioni :bulb:       |
 |-----------------|:---------------------------:|:---------------------------:|:---------------------------:|
-| Esercitazione 1 |  Svolta :heavy_check_mark:  |  20/10/23 :calendar:  |    Pubblicate :paperclip:   |
+| Esercitazione 1 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark:  |    Pubblicate :paperclip:   |
 | Esercitazione 2 |  23/10/23 :calendar:  |  27/10/23 :calendar:  |    27/10/23 :calendar:   |
 | Esercitazione 3 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
 | Esercitazione 4 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
