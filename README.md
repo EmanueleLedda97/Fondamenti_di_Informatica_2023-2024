@@ -7,10 +7,10 @@ In questa tabella è possibile vedere il riassunto dello stato delle esercitazio
 |                 |  Ing. Ambientale :seedling: |     Ing. Civile :house:     |      Soluzioni :bulb:       |
 |-----------------|:---------------------------:|:---------------------------:|:---------------------------:|
 | Esercitazione 1 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark:  |    Pubblicate :paperclip:   |
-| Esercitazione 2 |  23/10/23 :calendar:  |  27/10/23 :calendar:  |    27/10/23 :calendar:   |
-| Esercitazione 3 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
-| Esercitazione 4 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
-| Esercitazione 5 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
-| Esercitazione 6 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
-| Esercitazione 7 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
-| Esercitazione 8 |  DdP :clock8:  |  DdP :clock8:  |    DdP :clock8:   |
+| Esercitazione 2 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark:  |    Pubblicate :paperclip:   |
+| Esercitazione 3 |  06/11/23 :calendar:  |  03/11/23 :calendar:  |    06/11/23 :calendar:   |
+| Esercitazione 4 |  20/11/23 :calendar:  |  10/11/23 :calendar:  |    20/11/23 :calendar:   |
+| Esercitazione 5 |  24/11/23 :calendar:  |  24/11/23 :calendar:  |    24/11/23 :calendar:   |
+| Esercitazione 6 |  27/11/23 :calendar:  |  01/12/23 :calendar:  |    01/12/23 :calendar:   |
+| Esercitazione 7 |  11/12/23 :calendar:  |  15/12/23 :calendar:  |    15/12/23 :calendar:   |
+| Esercitazione 8 |  18/12/23 :calendar:  |  22/12/23 :calendar:  |    22/12/23 :calendar:   |
