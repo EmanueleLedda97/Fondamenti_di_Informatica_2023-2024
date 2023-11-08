@@ -8,7 +8,7 @@ In questa tabella è possibile vedere il riassunto dello stato delle esercitazio
 |-----------------|:---------------------------:|:---------------------------:|:---------------------------:|
 | Esercitazione 1 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark:  |    Pubblicate :paperclip:   |
 | Esercitazione 2 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark:  |    Pubblicate :paperclip:   |
-| Esercitazione 3 |  06/11/23 :calendar:  |  Svolta :heavy_check_mark: |    06/11/23 :calendar:   |
+| Esercitazione 3 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark: |    08/11/23 :calendar:   |
 | Esercitazione 4 |  20/11/23 :calendar:  |  10/11/23 :calendar:  |    20/11/23 :calendar:   |
 | Esercitazione 5 |  24/11/23 :calendar:  |  24/11/23 :calendar:  |    24/11/23 :calendar:   |
 | Esercitazione 6 |  27/11/23 :calendar:  |  01/12/23 :calendar:  |    01/12/23 :calendar:   |
